@@ -83,8 +83,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/0912-sort-an-array) |
+| [1603-design-parking-system](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
