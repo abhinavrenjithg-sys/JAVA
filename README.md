@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/0217-contains-duplicate) |
 | [1672-richest-customer-wealth](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/1672-richest-customer-wealth) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhinavrenjithg-sys/JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
